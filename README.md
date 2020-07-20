@@ -19,6 +19,4 @@ Currently improving my Typescript skills: Database relations.<br />
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wolgrand-neto-95830424//)](https://www.linkedin.com/in/wolgrand-neto-95830424/)  [!
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wolgrand-neto-95830424//)](https://www.linkedin.com/in/wolgrand-neto-95830424/)  
