@@ -2,9 +2,7 @@
 
 I´m a brazilian production engineer passionate about project management and development. For me coding is like woodwork in the past it´s the way to make my ideas get life.
 
-I´m a fullstack developer, if you don´t know what it is, I´m capable to build a web or mobile app as well as the back-end utilizing the stack NODEJS/TYPESCRIPT REACTJS and REACT NATIVE.
-
-
+I´m a fullstack developer, with 2 years of experience, if you don´t know what it is, I´m capable to build a web or mobile app as well as the back-end utilizing the stack NodeJS/Typescript & ReactJS & React Native.
 
 I want to make this world a little better through design & code. ✨😍
 
